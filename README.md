@@ -1,2 +1,2 @@
 # XWalkView
-基于Crosswalk 内核的webview示例
+基于crosswalk 内核的webview示例
